@@ -22,8 +22,10 @@ B반 5/27(수) 수업에서 발표
 
 ### 폴더 구조:
 
+과제1:
 projects_01 폴더에 과제 1 파일들이 있습니다.
 
-projects_02 폴더에 과제 2 파일들이 있습니다.
+과제2:
+culture_access_gap_senior_analysis_final.ipynb
 
 temp 폴더에 임시 파일들이 있습니다.
